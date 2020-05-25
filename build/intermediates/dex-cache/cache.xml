@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\rosgraph_msgs\1.11.2\a4bb7847cbec4a0968a17f2b86ab8f9971c1ffd1\rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4bb7847cbec4a0968a17f2b86ab8f9971c1ffd1">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\rosgraph_msgs-1.11.2_e1ba81da509e13a237f45e4a3d97c7f02f7e3f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\777a3419d58904c4ad67fcb5b757ffa6c19ad8c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab7182fb51c5ebc9287976b9b7cf423af6872059">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afaf56ee7d43323b37287fdbaa585016bfc398a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\cc68bc1c3fcd5db7466038c6d3da3d00d04d33cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="10c53f5c31eef672abcb71f0fae721d88318f033">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d293c88744053feab019760fc55cd1c38fd18b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\io.netty\netty\3.5.2.Final\e6fb74a0699abe108969b2ec1f269391169a0426\netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\netty-3.5.2.Final_08235577b94e2a96d9ac3916c67c7557fbb5305e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\b8edd92ae84d7a767a0428c1e51dce810d7f3c66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a764614df1f9a5a7f2172de7f603a988c89c5a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\8a4a85a7697a60a3bc88c81009994ed1b0bed96e\output\jars\libs\ros-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a572c1afbdb69a1fa3f641c662eade8ed245bc2c">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\ros-1.0-SNAPSHOT_9e09ec6362bc810b98100d5c739d7b5c5a09099c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\e59f911e4ff259797c82a85e9a3570d2132ba91b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51bc5152d250de5be787abe30ff324577eded5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\1ce3d75a16a2707fcabf8cc4036d7a6e70c79d44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53fa8283f70c2adb93ce03dbfbd36635a52ba863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\8a4a85a7697a60a3bc88c81009994ed1b0bed96e\output\jars\libs\ff_msgs-0.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51d67762d9e1fd4a5e9c715bbfbced78658dddb6">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\ff_msgs-0.0.0_2110dfaf99611b20d8b2a42fd660430b21de051b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\669409043362776f1274529be3147311dc0890c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e8a12af5f81884afc0a660216631f286bf86a448">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e18a84f990ca5873999d61aec6abc5d2d611d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\b4abddcb632000fe12cb3c18bf0dbf1a91f23d3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e280380d29bd6e1cebcbf872d416b18271d83e38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\actionlib_msgs\1.12.7\c79d70ff4d27a66234a3a3061dc3e69f9ef3d64e\actionlib_msgs-1.12.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c79d70ff4d27a66234a3a3061dc3e69f9ef3d64e">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\actionlib_msgs-1.12.7_40572ad211abf1a8b477d5e7f2ae140972571502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\7c5bc1a5dd073aff5643178708e43e359bd356af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c372ebc79a426191328f2abcbea502907c1e1b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\dnsjava\dnsjava\2.1.1\5708df81cf6dbff545695f0be6380b7bbc85accc\dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\dnsjava-2.1.1_02b3ef842f30140737214f06036a4a6bd842ccd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\rosjava_test_msgs\0.2.1\e14026224ba364d49f90e204fd30ee91077602b8\rosjava_test_msgs-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e14026224ba364d49f90e204fd30ee91077602b8">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\rosjava_test_msgs-0.2.1_3c5772f900ae51e57dabef941c37d5a3dfaa05c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_client\0.2.2\47cfb7ff62beeab0774ea18f3a9b47e0c7f8a7fe\apache_xmlrpc_client-0.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47cfb7ff62beeab0774ea18f3a9b47e0c7f8a7fe">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\apache_xmlrpc_client-0.2.2_3fbb5efa3070baa0aeb1367befee25fa6da7e510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\c9171b2ce6bc2702ed8b4174021c5fb804b3890c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3256f8d564a26a7c5a3a220227661c4393290126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_5f375fbd57887e78030bfc2bca24ec1fcb6aab0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.ws.commons\ws-commons-util\1.0.1\126e80ff798fece634bc94e61f8be8a8da00be60\ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\ws-commons-util-1.0.1_f92937ea2cf94b51d651beb0eeb9650da2f39786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.codec\1.3.0\a7c156ef67bdc69ae36a9c70adf7b8ca2633132c\com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7c156ef67bdc69ae36a9c70adf7b8ca2633132c">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.codec-1.3.0_631f3dbd7f271c37b0f6ea0bc2ffb2e61e59b091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_server\0.2.2\c1a4054f1e7f5343deb216bb4de19c1d0e1abb80\apache_xmlrpc_server-0.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1a4054f1e7f5343deb216bb4de19c1d0e1abb80">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\apache_xmlrpc_server-0.2.2_287d75d89f6afac18297aae9d443759653a71164\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\ef5728ea8bb15c41527517e7df8cda2e8fe33907\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fa31cb5dc9796fd31522d595d743c4734730a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_d177a762f7e681faa1c00e15fe415d80f08def89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_bootstrap\gradle_plugins\0.3.3\bec608dad46e6910fe39e97d8d5af0daf0902fc2\gradle_plugins-0.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bec608dad46e6910fe39e97d8d5af0daf0902fc2">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\gradle_plugins-0.3.3_459908ac9dab0d7ae31219ffff42faeee3f5d65f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\8a4a85a7697a60a3bc88c81009994ed1b0bed96e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6ddf084b788e203a4880c810e68169e6ad9bb55">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b26723ebf6d949d86b62596abad5604c1591865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\sensor_msgs\1.11.9\410c5603b38b55a829f34c7b366ebed106cf0c7d\sensor_msgs-1.11.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="410c5603b38b55a829f34c7b366ebed106cf0c7d">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\sensor_msgs-1.11.9_5a6e1c0fee38ed2e2af6c4d435acf6621dad3fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\1e306cea858cc354811a5ec98ffc9f8a4f83c366\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cfba17aa295a3dc53ad710da12d2e8d43092a3b">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f53d91641067e34a7f91a8070217706e7cfb539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_8f16b6242ae4285ffc55b984b814db53e1370a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.logging\1.1.1\7657caf2c78e1d79c74d36f2ae128a115f7cc180\com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.logging-1.1.1_8821ae34c7801278f5f866cb782d6dfa3c47ae13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\rosjava\0.2.2\78fe3ddfa484f71012f33b120c4926c8a7626506\rosjava-0.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78fe3ddfa484f71012f33b120c4926c8a7626506">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\rosjava-0.2.2_d8937b4b98002ebe8261e5ec1617ff7a15727df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\ec087a4743a94253a83aeca62c3a9adab9168ada\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b683125c9eaedd35af5c5324cf33131a3801d1f">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1c0e2b894a0b7c69c12f25e283947bb5b338068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\diagnostic_msgs\1.11.9\cd26b0f3326102721034f03734ba624798bd771d\diagnostic_msgs-1.11.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd26b0f3326102721034f03734ba624798bd771d">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\diagnostic_msgs-1.11.9_c3c62555f89a18e9d1567404885a3c1b1bca5dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\669409043362776f1274529be3147311dc0890c4\output\jars\libs\zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e671e7a14299d6f2591fc1ae672c49861d3329c6">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\zbar_851875325019a435e001d1ac7b9bd7b86dfbbc40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\8a4a85a7697a60a3bc88c81009994ed1b0bed96e\output\jars\libs\api-1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0c375d9be8682ad66b1dcc36f23e7042ebab943">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\api-1.0-SNAPSHOT_e0099841ae5c258377d148c0496e9a1bc22eaeac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\562f8e7e0b4e4ec3d3ab9d6758d49a977b973f9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f0ae00dcfe7a91f684171c7fed89e41e0f8e112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.net\2.0.0\3e78766072ff5a5cf3f5431d973c430c94ec612\com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.net-2.0.0_a5aa3108d3d90551d76db595c40031226dc48c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\ee68f99c228855d6bf47949fc2f84ab55dfb7da8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09f2e39a4c74b715c16765e6852464bcd6d958b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\6131ef46139f640313b5b1b96b7221da4faea746\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1da33e32ab8494d557dfb2f3c3f8e29fdc5d98b7">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcdbeac55de97a61df2fcf68ac2c20e17676757e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_ac5759f143856a9996e8cf41236049541fe81530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_bootstrap\message_generation\0.3.3\b599cb8535d39e8bd9066b6b1b4704010e6f3e3\message_generation-0.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b599cb8535d39e8bd9066b6b1b4704010e6f3e3">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\message_generation-0.3.3_8a3ed29e65deb1f15b8f9331b4d759cd7e99b6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\ce3be18a69061cb87b5c9a70694a187f56a1bd46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_524e3bb0d2d80320ae37d77f2e63e17200432b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\geometry_msgs\1.12.7\cd8febdeda479787bf95ad715853e1730f88a0be\geometry_msgs-1.12.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd8febdeda479787bf95ad715853e1730f88a0be">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\geometry_msgs-1.12.7_e3725a663958ce00bfbce8cd982486de8a3549e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.lang\2.4.0\686e3713650c8e3a5d98723b4d3e239586bf9822\com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.lang-2.4.0_121055b976a4aaaf7cf99e55c3b0f301f2478a00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_dd084fad81f277f19b9416d12d2af3566749957e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\902650e18839667560a069a6a7f26b95a3af6e98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b723383fcc5c9e6d233f12cf3670c153dcb9f72">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da62aa35f87822b3b0c17d2dade113125a57a130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\f520e66d5366d13f7224305f027b5e368b16f132\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a151354aa2e464a67158c80808f72d9f407bb374">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57100d00c1db5054511e298bb6b6678793e25f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\3db60b748c8127737f21bb836bed5fb76c8e029b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bdbaec37a1cbd09bb11f80b7e2ecb408fd843fd0">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fd9f273f5e43b27848a0b7ce45aebf824483d73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.httpclient\3.1.0\c493a925a091ac3d8f449d9265fe12482dabb2a7\com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.httpclient-3.1.0_5400b91267248fdebb13a007e71a74c5e4197c64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\61641b175f7a89f2b82e46019231ee98aae7ac77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77258044067047680ad29b3cca33e8b281b6959a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\nav_msgs\1.11.9\92d5ef2ea3b47d61cbda430e576b54b493cbd229\nav_msgs-1.11.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="92d5ef2ea3b47d61cbda430e576b54b493cbd229">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\nav_msgs-1.11.9_a222bfc98ece4eccc51af9c65e42bcf0eaf22947\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.apache.commons\com.springsource.org.apache.commons.io\1.4.0\51097cd000ec88214ff181c9f059947de1cf4a35\com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.springsource.org.apache.commons.io-1.4.0_aa6a17ba25c8790ab5178ad46760b15500d37e86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\commons-pool\commons-pool\1.6\4572d589699f09d866a226a14b7f4323c6d8f040\commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-pool-1.6_bd1960b7cb28bb3c890d85b8a1e346c31809555b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\aa84168e6f339bfa6d5c9c1598dcb490538f314f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb2becdebf9fcf45984a3ac59900bd01e87c88bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\12.0\5bc66dd95b79db1e437eb08adba124a3e4088dc0\guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-12.0_f4acb405b30064f825eb61c5411f23e2764bc4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\01ca73b15feac45d31b0d74b251fc29424d4ffc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12aa25721863bdfa70b9a358651817ca5025a7a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_core\apache_xmlrpc_common\0.2.2\d136f4ee685835a527285f97cef4df3958801371\apache_xmlrpc_common-0.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d136f4ee685835a527285f97cef4df3958801371">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\apache_xmlrpc_common-0.2.2_560716ef16725d1a9bc08f524e42da30b264670e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\std_msgs\0.5.11\aa060cc6457746034a82e10cff743786cea7e9e9\std_msgs-0.5.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa060cc6457746034a82e10cff743786cea7e9e9">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\std_msgs-0.5.11_7524ce267061e8e9b439be4e92957539d58040d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\dab0715901554c18a54608f7f33dcbaaec08c16c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b2ad63b19359b935d0da0a8805001009e88da0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.android\build-cache\0129feeed31abaa4dc407ffb2384a003df43f7ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_575dca179d103275c6890f35d147ed8f760b9185\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tanth\.gradle\caches\modules-2\files-2.1\org.ros.rosjava_messages\tf2_msgs\0.5.20\e3a5bdf7d6d68b7f5ebdb58d93b484b70d6355a8\tf2_msgs-0.5.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3a5bdf7d6d68b7f5ebdb58d93b484b70d6355a8">
+        <dex dex="C:\Users\tanth\Desktop\SampleApk\app\build\intermediates\transforms\dex\debug\folders\1000\10\tf2_msgs-0.5.20_9c7091899c2653f4a5bf625ea4f4cc68c6a3204f\classes.dex" />
+    </item>
+
+</items>
