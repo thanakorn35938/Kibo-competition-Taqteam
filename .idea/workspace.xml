@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="339a2ece-01e3-4d5e-9c66-32841b90080d" name="Default Changelist" comment="Final Commit">
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/YourService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="53" column="51" lean-forward="true" selection-end-line="147" selection-end-column="1" />
+            <state relative-caret-position="124">
+              <caret line="52" column="36" selection-end-line="147" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="522" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="520" />
     <option name="y" value="-15" />
     <option name="width" value="860" />
     <option name="height" value="895" />
@@ -79,10 +80,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,14 +201,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.020134227" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49315068" visible="true" weight="0.053691275" />
       <window_info id="Structure" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Build Variants" order="5" sideWeight="0.5068493" side_tool="true" visible="true" weight="0.053691275" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Designer" order="7" />
       <window_info id="Resources Explorer" order="8" weight="0.3295302" />
@@ -216,7 +218,7 @@
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4986577" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.51208055" side_tool="true" weight="0.27882037" />
       <window_info anchor="bottom" id="Version Control" order="4" sideWeight="0.49932885" weight="0.3297587" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.48791945" weight="0.27882037" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.48791945" visible="true" weight="0.21715818" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49932885" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -281,8 +283,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/jp/jaxa/iss/kibo/rpc/sampleapk/YourService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="53" column="51" lean-forward="true" selection-end-line="147" selection-end-column="1" />
+        <state relative-caret-position="124">
+          <caret line="52" column="36" selection-end-line="147" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

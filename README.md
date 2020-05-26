@@ -14,3 +14,4 @@
 "# Kibo-competition-Taqteam"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/thanakorn35938/Kibo-competition-Taqteam.git git push -u origin master 
 "# Kibo-competition-Taqteam" 
 "# Kibo-competition-Taqteam" 
+"# Kibo-Competititon-Taqteam" 
