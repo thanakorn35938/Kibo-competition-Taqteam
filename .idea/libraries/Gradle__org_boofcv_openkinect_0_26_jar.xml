@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:openkinect:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/openkinect/0.26/d6b0a441d630d61595ec97a847d58097477fff3a/openkinect-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/openkinect/0.26/34d994053e0fb1746d9acbe8b613431bde86c6b/openkinect-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/openkinect/0.26/64a167f46df9a71889e0d7a3591e74a0e53c714f/openkinect-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

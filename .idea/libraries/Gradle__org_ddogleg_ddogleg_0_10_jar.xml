@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ddogleg:ddogleg:0.10@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.ddogleg/ddogleg/0.10/ee8c6881eba48da70f1264f4de09e6181844f649/ddogleg-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.ddogleg/ddogleg/0.10/fbf9c5482e8243b5abebda2ab5486614e4629e96/ddogleg-0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.ddogleg/ddogleg/0.10/c89dd4d86b5df9e5a8c8c9ba926a99cd44ac4fc7/ddogleg-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

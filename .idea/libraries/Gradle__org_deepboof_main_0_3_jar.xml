@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.deepboof:main:0.3@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/main/0.3/f35066913a316938e486062110be298b17eede3d/main-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/main/0.3/a7d7d21545a113729693a16f00d5f99cee828108/main-0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/main/0.3/f6b94bc2e606153e0be6542ac53fcc031a0cad51/main-0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

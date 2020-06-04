@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rauschig:jarchivelib:0.5.0@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.5.0/7e7d26b83a2bc3d0ccfb88f1a1cc815766f584e0/jarchivelib-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.5.0/a3b38ef33ed3e7ea0b6556ef75a029defb7e9010/jarchivelib-0.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.rauschig/jarchivelib/0.5.0/32e7213416f0b8e4fd647284dc551bf81bd84826/jarchivelib-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

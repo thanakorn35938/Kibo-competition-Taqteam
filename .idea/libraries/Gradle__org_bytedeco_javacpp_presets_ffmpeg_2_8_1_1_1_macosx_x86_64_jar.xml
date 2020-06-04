@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.bytedeco.javacpp-presets:ffmpeg:2.8.1-1.1:macosx-x86_64@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.bytedeco.javacpp-presets/ffmpeg/2.8.1-1.1/30e99b53e2558b2bffbeed3df3c0200651c6a86c/ffmpeg-2.8.1-1.1-macosx-x86_64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

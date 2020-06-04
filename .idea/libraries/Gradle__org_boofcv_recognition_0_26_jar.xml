@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:recognition:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/recognition/0.26/137368d4b591f4e03d2db41fa79ebbb71f954ec1/recognition-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/recognition/0.26/a579161676593349342dff21410cb6bf3afa30d6/recognition-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/recognition/0.26/9145de5be9885f12cef3a27292aa1f751598ee8/recognition-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

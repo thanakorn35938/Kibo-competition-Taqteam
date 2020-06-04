@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.georegression:georegression:0.12@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.georegression/georegression/0.12/126bf565834402349316ae743daa4fa34d339755/georegression-0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.georegression/georegression/0.12/2a82644a7892e353c9717d6ebdb043bc11b1a0a6/georegression-0.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.georegression/georegression/0.12/9e30da40c7d4d9e234c293cba5965a6f715a29f0/georegression-0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

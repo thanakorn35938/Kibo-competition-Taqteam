@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.deepboof:learning:0.3@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/learning/0.3/a742770787b00272664cd052fa1ad17225d6489d/learning-0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/learning/0.3/537072f1069dc0c9933c5d7996b9d9a0c6d8d979/learning-0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.deepboof/learning/0.3/70ee125ba6a94f78da380c50032cf91120af3f0c/learning-0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

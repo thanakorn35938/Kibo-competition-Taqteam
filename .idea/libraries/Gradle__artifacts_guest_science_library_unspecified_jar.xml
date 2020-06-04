@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:guest_science_library:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SampleApk/guest_science_library/build/.transforms/91e94f22a4b8307c4e1ec0585a92b53d/guest_science_library/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../SampleApk/guest_science_library/build/.transforms/91e94f22a4b8307c4e1ec0585a92b53d/guest_science_library/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

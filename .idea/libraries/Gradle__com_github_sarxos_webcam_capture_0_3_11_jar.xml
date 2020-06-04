@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sarxos:webcam-capture:0.3.11@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/c00ad77fb7830c915e2647978e188bc7cf360800/webcam-capture-0.3.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/8494c64ef70004ae8ac98fcb3589503a2ea2b13b/webcam-capture-0.3.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

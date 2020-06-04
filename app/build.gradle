@@ -5,8 +5,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "jp.jaxa.iss.kibo.rpc.sampleapk" +
-                ""
+        applicationId = "jp.jaxa.iss.kibo.rpc.sampleapk" + ""
         minSdkVersion 25
         targetSdkVersion 26
         versionCode 1
@@ -35,21 +34,22 @@ android {
 }
 
 dependencies {
-    compile project(':guest_science_library')
-    compile project(':kibo_rpc_api')
+    implementation project(':guest_science_library')
+    implementation project(':kibo_rpc_api')
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:26.+'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.google.android.gms:play-services-vision:15.0.0'
     compile 'me.dm7.barcodescanner:zbar:1.9.8'
     compile('org.ros.rosjava_core:rosjava:[0.2,0.3)') {
         exclude group: 'xml-apis'
         exclude group: 'junit'
     }
-    compile('org.ros.android_core:android_10:[0.2,0.3)') {
+    implementation('org.ros.android_core:android_10:[0.2,0.3)') {
         exclude group: 'xml-apis'
         exclude group: 'junit'
     }
     testCompile 'junit:junit:4.12'
     compile 'com.quickbirdstudios:opencv:3.4.4-contrib'
+    implementation 'com.google.zxing:core:3.4.0'
 }

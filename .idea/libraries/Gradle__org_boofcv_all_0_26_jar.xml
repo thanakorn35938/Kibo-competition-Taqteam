@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:all:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/all/0.26/2446272a03cb47dd70d4d05cb5141d722c921409/all-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/all/0.26/a843ff131a825738eed3b6dba98c53433428f4c3/all-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/all/0.26/d63485f52af4debeaf11d505b4ebd5e333075d01/all-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

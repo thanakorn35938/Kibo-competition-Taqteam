@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:sfm:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/sfm/0.26/702cb4df92924b8ebec6df38c5077cdd2c606fa4/sfm-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/sfm/0.26/7dad2787999885ba81ce0b9534a6d84b59ba5fdb/sfm-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/sfm/0.26/d0004f1216569654ba21e1a487e1b8bdd1010b8f/sfm-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

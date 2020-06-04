@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:WebcamCapture:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/WebcamCapture/0.26/9fb86b3a69656c79b499afa824faae2f8d11d848/WebcamCapture-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/WebcamCapture/0.26/42d4de71d227e2956538c459f1266e510d390729/WebcamCapture-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/WebcamCapture/0.26/c2ad0dc5f129366b353cc1593390f284a67bc0d2/WebcamCapture-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

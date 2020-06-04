@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:javacv:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/javacv/0.26/62d1a0107212a8894589cde33f0df9c8a9883d88/javacv-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/javacv/0.26/7b779088a163a3ae0ac282216c96dd106f584140/javacv-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/javacv/0.26/34c2b61a092d429075f007055d3dfc274871d6a0/javacv-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.boofcv:learning:0.26@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/learning/0.26/dcf7905dd0ac0e5544079b752bf7058723f180e/learning-0.26.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/learning/0.26/817d0bbf2225aaae60ec4f74dcd2e72b41c51e44/learning-0.26-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.boofcv/learning/0.26/bbeda07480016022ec36139e439c05f27a53cf3f/learning-0.26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

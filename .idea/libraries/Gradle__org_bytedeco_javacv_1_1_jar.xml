@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.bytedeco:javacv:1.1@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.bytedeco/javacv/1.1/8b045838ae7e1fc31f0d407c6ab76933e7bddadb/javacv-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.bytedeco/javacv/1.1/42b37d13f09b300c336802301cd51395827c7297/javacv-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/org.bytedeco/javacv/1.1/f58e33dad1f86a58114fb41f0a1f6a21167774d8/javacv-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
