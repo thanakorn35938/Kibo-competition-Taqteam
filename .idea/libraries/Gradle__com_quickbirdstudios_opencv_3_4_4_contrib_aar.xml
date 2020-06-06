@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.quickbirdstudios:opencv:3.4.4-contrib@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6f1161cc344f8decf6984b0fc7e2472f/opencv-3.4.4-contrib/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/6f1161cc344f8decf6984b0fc7e2472f/opencv-3.4.4-contrib/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f1161cc344f8decf6984b0fc7e2472f/opencv-3.4.4-contrib/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f1161cc344f8decf6984b0fc7e2472f/opencv-3.4.4-contrib/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.quickbirdstudios/opencv/3.4.4-contrib/cd2c9c58692b78eec9e13ff5d2ffa32a5f0ba4fc/opencv-3.4.4-contrib-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.quickbirdstudios/opencv/3.4.4-contrib/cd2c9c58692b78eec9e13ff5d2ffa32a5f0ba4fc/opencv-3.4.4-contrib-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

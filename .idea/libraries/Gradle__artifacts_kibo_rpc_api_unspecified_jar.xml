@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:kibo_rpc_api:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../SampleApk/kibo_rpc_api/build/.transforms/5bc1b7c440da33caa22161f769f0eedf/kibo_rpc_api-debug/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../SampleApk/kibo_rpc_api/build/.transforms/5bc1b7c440da33caa22161f769f0eedf/kibo_rpc_api-debug/res" />
-      <root url="jar://$PROJECT_DIR$/../SampleApk/kibo_rpc_api/build/.transforms/5bc1b7c440da33caa22161f769f0eedf/kibo_rpc_api-debug/jars/libs/api-1.0-SNAPSHOT.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../SampleApk/kibo_rpc_api/build/.transforms/5bc1b7c440da33caa22161f769f0eedf/kibo_rpc_api-debug/jars/libs/ros-1.0-SNAPSHOT.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../SampleApk/kibo_rpc_api/build/.transforms/5bc1b7c440da33caa22161f769f0eedf/kibo_rpc_api-debug/jars/libs/ff_msgs-0.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kibo_rpc_api/build/.transforms/2386b02a7d3b2917767e39b4e8592461/kibo_rpc_api-debug/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/kibo_rpc_api/build/.transforms/2386b02a7d3b2917767e39b4e8592461/kibo_rpc_api-debug/res" />
+      <root url="jar://$PROJECT_DIR$/kibo_rpc_api/build/.transforms/2386b02a7d3b2917767e39b4e8592461/kibo_rpc_api-debug/jars/libs/api-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kibo_rpc_api/build/.transforms/2386b02a7d3b2917767e39b4e8592461/kibo_rpc_api-debug/jars/libs/ff_msgs-0.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kibo_rpc_api/build/.transforms/2386b02a7d3b2917767e39b4e8592461/kibo_rpc_api-debug/jars/libs/ros-1.0-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
