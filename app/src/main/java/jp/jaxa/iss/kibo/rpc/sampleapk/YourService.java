@@ -25,15 +25,15 @@ public class YourService extends KiboRpcService {
     @Override
     protected void runPlan1() {
         api.judgeSendStart();
-        double pos_x = movetoQR(11.49, -5.7, 4.5, 0, 0, 0, 1,0);
-        double pos_z = movetoQR(11, -5.5, 4.36, 0.707, 0, -0.707, 0,2);
-        double pos_y = movetoQR(11, -6, 5.44, 0.5, 0.5, 0.5, -0.5,1);
-        moveToWrapper(10.50,-6.45,5.40,0,0,0,0);
-        double qua_y = movetoQR(11.49,-8,5,0,0,0,1,4);
-        double qua_z = movetoQR(11,-7.7,5.44,0.7,0,0.7,0 ,5);
-        double qua_x = movetoQR(10.41,-7.5,4.7,0,0,1,0,3);
-        moveToWrapper(10.95,-9.4,5.35,0,0,0,0);
-        AR(pos_x,pos_y,pos_z,qua_x,qua_y,qua_z,Math.sqrt(1 - (qua_x * qua_x) - (qua_y * qua_y) - (qua_z * qua_z)));
+        double pos_x = movetoQR(11.49, -5.7, 4.5, 0, 0, 0, 1, 0);
+        double pos_z = movetoQR(11, -5.5, 4.36, 0.707, 0, -0.707, 0, 2);
+        double pos_y = movetoQR(11, -6, 5.44, 0.5, 0.5, 0.5, -0.5, 1);
+        moveToWrapper(10.50, -6.45, 5.40, 0, 0, 0, 0);
+        double qua_y = movetoQR(11.49, -8, 5, 0, 0, 0, 1, 4);
+        double qua_z = movetoQR(11, -7.7, 5.44, 0.7, 0, 0.7, 0, 5);
+        double qua_x = movetoQR(10.41, -7.5, 4.7, 0, 0, 1, 0, 3);
+        moveToWrapper(10.95, -9.4, 5.35, 0, 0, 0, 0);
+        AR(pos_x, pos_y, pos_z, qua_x, qua_y, qua_z, Math.sqrt(1 - (qua_x * qua_x) - (qua_y * qua_y) - (qua_z * qua_z)));
         api.judgeSendFinishSimulation();
     }
 
@@ -99,30 +99,27 @@ public class YourService extends KiboRpcService {
         api.judgeSendDiscoveredQR(QR, back);
         back_con = back.split(", ");
         double realback = Double.parseDouble(back_con[1]);
-       return realback ;
+        return realback;
 
     }
-    public void AR (double pos_x, double pos_y, double pos_z,
-                      double qua_x, double qua_y, double qua_z,
-                      double qua_w)
-    {
-       Mat ids = new Mat();
-       Mat source = api.getMatNavCam();
-       int arv = 0;
-       while (arv==0)
-       {
-           moveToWrapper(pos_x,pos_y,pos_z,qua_x,qua_y,qua_z,qua_w);
-           Dictionary format = Aruco.getPredefinedDictionary(Aruco.DICT_5X5_250);
-           List<Mat> corners = new ArrayList<>();
-           try {
-               Aruco.detectMarkers(source, format, corners, ids);
-               arv = (int) ids.get(0, 0)[0];
-           }
-           catch (Exception ec){
 
-           }
-           }
+    public void AR(double pos_x, double pos_y, double pos_z,
+                   double qua_x, double qua_y, double qua_z,
+                   double qua_w) {
+        Mat ids = new Mat();
+        Mat source = api.getMatNavCam();
+        int arv = 0;
+        while (arv == 0) {
+            moveToWrapper(pos_x, pos_y, pos_z, qua_x, qua_y, qua_z, qua_w);
+            Dictionary format = Aruco.getPredefinedDictionary(Aruco.DICT_5X5_250);
+            List<Mat> corners = new ArrayList<>();
+            try {
+                Aruco.detectMarkers(source, format, corners, ids);
+                arv = (int) ids.get(0, 0)[0];
+            } catch (Exception ec) {
+
+            }
+        }
         api.judgeSendDiscoveredAR(Integer.toString(arv));
-       }
     }
-
+}
