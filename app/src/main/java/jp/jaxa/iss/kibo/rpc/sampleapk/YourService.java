@@ -111,6 +111,7 @@ public class YourService extends KiboRpcService {
        int arv = 0;
        while (arv==0)
        {
+           moveToWrapper(pos_x,pos_y,pos_z,qua_x,qua_y,qua_z,qua_w);
            Dictionary format = Aruco.getPredefinedDictionary(Aruco.DICT_5X5_250);
            List<Mat> corners = new ArrayList<>();
            try {
