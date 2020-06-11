@@ -1,17 +1,11 @@
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
-"# Kibo-competition-Taqteam" 
-"# Kibo-competition-Taqteam"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/thanakorn35938/Kibo-competition-Taqteam.git git push -u origin master 
-"# Kibo-competition-Taqteam" 
-"# Kibo-competition-Taqteam" 
-"# Kibo-Competititon-Taqteam" 
+# Kibo-Competition-TAQTHAILAND
+
+# Link for Quaternions Simulation & Calculation
+http://quaternions.online/
+
+# Link for QR CODE Decoding Library
+http://zbar.sourceforge.net/
+
+# Link for Aruco (AR) Decoding Library and command list
+https://docs.opencv.org/3.4/javadoc/org/opencv/aruco/Aruco.html
+https://docs.opencv.org/trunk/d5/dae/tutorial_aruco_detection.html
